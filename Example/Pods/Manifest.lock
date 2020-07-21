@@ -1,0 +1,16 @@
+PODS:
+  - TestCompA (0.1.0)
+
+DEPENDENCIES:
+  - TestCompA (from `../`)
+
+EXTERNAL SOURCES:
+  TestCompA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestCompA: e2bcea4ccefc413c101fcbce3c6e0e8b10abb879
+
+PODFILE CHECKSUM: 81373521fc680ba8fc02a470619b0e7daab8c148
+
+COCOAPODS: 1.9.3
