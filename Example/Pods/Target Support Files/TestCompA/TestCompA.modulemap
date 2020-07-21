@@ -1,6 +1,0 @@
-framework module TestCompA {
-  umbrella header "TestCompA-umbrella.h"
-
-  export *
-  module * { export * }
-}
