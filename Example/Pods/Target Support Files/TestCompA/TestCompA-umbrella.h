@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "ZCXMyViewController.h"
+#import "ZCXView1.h"
+#import "ZCXView2.h"
 
 FOUNDATION_EXPORT double TestCompAVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestCompAVersionString[];

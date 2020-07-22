@@ -7,6 +7,9 @@
 //
 
 #import "ZCXViewController.h"
+#import "ZCXView1.h"
+#import "ZCXMyViewController.h"
+
 
 @interface ZCXViewController ()
 
